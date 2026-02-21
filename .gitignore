@@ -1,2 +1,10 @@
 .idea/
 FormalMethods.iml
+/midterm1/obj/
+/midterm1/ElevatorSpec
+/midterm1/ElevatorSpec.cs
+/midterm1/ElevatorSpec.csproj
+/midterm1/ElevatorSpec.deps.json
+/midterm1/ElevatorSpec.dll
+/midterm1/ElevatorSpec.pdb
+/midterm1/ElevatorSpec.runtimeconfig.json
